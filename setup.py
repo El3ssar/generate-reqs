@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='generate-reqs',  # Replace with your package name
-    version='0.1.0',
+    version='0.1.2',
     author='Daniel',  # Replace with your name
     author_email='kemossabee@gmail.com',  # Replace with your email
     description='A utility to generate requirements.txt from a conda environment.',

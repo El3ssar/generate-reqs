@@ -1,0 +1,4 @@
+.key
+build/
+dist/
+generate_reqs.egg-info/
